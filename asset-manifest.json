@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/outstagram/static/css/main.ccdec474.css",
+    "main.js": "/outstagram/static/js/main.6cde72ab.js",
+    "static/js/453.df02fba7.chunk.js": "/outstagram/static/js/453.df02fba7.chunk.js",
+    "index.html": "/outstagram/index.html",
+    "main.ccdec474.css.map": "/outstagram/static/css/main.ccdec474.css.map",
+    "main.6cde72ab.js.map": "/outstagram/static/js/main.6cde72ab.js.map",
+    "453.df02fba7.chunk.js.map": "/outstagram/static/js/453.df02fba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccdec474.css",
+    "static/js/main.6cde72ab.js"
+  ]
+}
