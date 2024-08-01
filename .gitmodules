@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/maewakka/outstagram-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/maewakka/outstagram-backend.git
